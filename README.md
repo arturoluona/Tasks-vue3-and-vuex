@@ -4,6 +4,12 @@
 
 ## 💥 [View in StackBlitz](https://stackblitz.com/github/arturoluona/reviewVue3) 💥
 
+####  In ```StackBlitz``` console run
+
+```
+npm run start
+```
+
 ## Project setup
 ```
 npm install
