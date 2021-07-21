@@ -1,5 +1,9 @@
 # tasks-test
 
+<img height="400" src="https://github.com/arturoluona/reviewVue3/tree/master/src/assets/example.png">
+
+## 💥 [View in StackBlitz](https://stackblitz.com/github/arturoluona/reviewVue3) 💥
+
 ## Project setup
 ```
 npm install
