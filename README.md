@@ -6,7 +6,7 @@
 
 ## Project setup
 ```
-npm install && npm run start
+npm install
 ```
 
 ### Compiles and hot-reloads for development
