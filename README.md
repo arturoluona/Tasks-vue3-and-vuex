@@ -1,6 +1,6 @@
 # tasks-test
 
-<img height="400" src="https://github.com/arturoluona/reviewVue3/tree/master/src/assets/example.png">
+<img height="400" src="https://github.com/arturoluona/reviewVue3/blob/master/src/assets/example.png">
 
 ## 💥 [View in StackBlitz](https://stackblitz.com/github/arturoluona/reviewVue3) 💥
 
